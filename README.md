@@ -2,7 +2,7 @@
 A project to engage citizens with local legislation based on their interests 
 through email subscription.
 
-Author: Sirajus Selikin
+Author: Sirajus Salikin
 Email: ssalek14@earlham.edu
 
 CoAuthor: Ali Shahram Musavi
