@@ -2,6 +2,12 @@
 A project to engage citizens with local legislation based on their interests 
 through email subscription.
 
+Author: Sirajus Selikin
+Email: ssalek14@earlham.edu
+
+CoAuthor: Ali Shahram Musavi
+Email: amusavi15@earlham.edu
+
 # Technologies Used
 We built this web app using Flask, with a MongoDB backend. The database service
 is provided by mLab using Amazon AWS Sandbox. We recieve our data from the
